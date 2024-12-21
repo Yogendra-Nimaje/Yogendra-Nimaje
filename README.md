@@ -2,7 +2,7 @@
 
 # I'm an extremely passionate Android & IOS Developer
 
-## About Me 😁
+## About Me 😊
 * 📱 Android Developer 
 
 * ✨ UI / UX Enthusiast
