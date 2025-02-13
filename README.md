@@ -20,7 +20,7 @@
 </p>
 <p align="left">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=java,androidstudio,dart,flutter,firebase," />
+    <img src="https://skillicons.dev/icons?i=java,androidstudio,dart,flutter,firebase,figma" />
   </a>
 </p>
 
