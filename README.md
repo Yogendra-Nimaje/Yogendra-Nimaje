@@ -32,4 +32,4 @@
 #
 
 ![Yogendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yogendra-Nimaje&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogendra-Nimjae&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogendra-Nimaje&layout=compact&theme=transparent)
